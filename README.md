@@ -94,30 +94,24 @@
 
 ---
 
-## 🤝 기여하기
-
-Farmstory 프로젝트에 기여하고 싶으신 분은 다음 단계를 따라주세요:
-1. 리포지토리 포크하기
-2. 새로운 기능 추가 또는 버그 수정
-3. Pull Request 제출
-
----
 
 ## 📫 문의하기
 Farmstory 프로젝트에 대해 궁금한 점이 있으시면 언제든지 연락해 주세요!
-- **Email**: loveu9911111@gmail.com
+- **Email**: ghkdtnqls95@gmail.com
 
 ---
 
 ## 🖼️ 스크린샷
 
 ### 메인 페이지
-<img src="./메인 스크린샷.PNG" alt="ERD 다이어그램" width="500px">
+![farmstory](https://github.com/user-attachments/assets/2ac1489e-5819-468c-b5be-1562e8b7de3c)
+
 
 ### 관리자 페이지
-<img src="./관리자화면.PNG" alt="ERD 다이어그램" width="500px">
+![farmstory관리자](https://github.com/user-attachments/assets/58ab8f22-52ea-43ae-a7c1-828eaabb77ae)
+
 
 
 ---
 
-✨ **Farmstory 프로젝트에 관심을 가져주셔서 감사합니다!** ✨
+✨ **Farmstory 에 관심을 가져주셔서 감사합니다!** ✨
