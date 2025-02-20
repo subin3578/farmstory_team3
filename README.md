@@ -1,7 +1,5 @@
 # 🌾 Farmstory: 농산품 상거래 플랫폼 🌾
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Farmstory&fontSize=70&fontAlign=50)
-
 ---
 
 ## 🛠️ 프로젝트 개요
