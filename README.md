@@ -43,7 +43,7 @@
 | **분야**       | **기술 스택**                                               |
 |----------------|------------------------------------------------------------|
 | **Frontend**   | HTML, CSS, JavaScript, Thymeleaf                           |
-| **Backend**    | Spring Boot, JPA, QueryDSL, MyBatis                        |
+| **Backend**    | Spring Boot, JPA, QueryDSL                     |
 | **Database**   | MySQL                                                      |
 | **Deploy**     | AWS (EC2)                                                  |
 | **Versioning** | Git                                                        |
